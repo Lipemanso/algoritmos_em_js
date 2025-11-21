@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1001,
+    "nome": "Ana Clara Silva",
+    "curso": "Engenharia de Software",
+    "periodo": 5,
+    "matriculaAtiva": true,
+    "mediaGeral": 8.5,
+    "disciplinasPendentes": ["Estrutura de Dados II", "Banco de Dados Avancado"]
+  }, 
+  {
+    "id": 1002,
+    "nome": "Bruno Santos Ferreira",
+    "curso": "Direito",
+    "periodo": 3,
+    "matriculaAtiva": true,
+    "mediaGeral": 7.2,
+    "disciplinasPendentes": ["Direito Civil I", "Criminologia"]
+  },
+  {
+    "id": 1003,
+    "nome": "Carla Oliveira Pires",
+    "curso": "Medicina",
+    "periodo": 8,
+    "matriculaAtiva": true,
+    "mediaGeral": 9.1,
+    "disciplinasPendentes": ["Clinica Médica III"]
+  },
+  {
+    "id": 1004,
+    "nome": "Daniel Souza Costa",
+    "curso": "Ciências Contábeis",
+    "periodo": 7,
+    "matriculaAtiva": false, 
+    "mediaGeral": 6.8,
+    "disciplinasPendentes": ["Auditoria", "Contabil","ade Gerencial"]
+  },
+  {
+    "id": 1005,
+    "nome": "Eduarda Lima Vaz",
+    "curso": "Arquitetura e Urbanismo",
+    "periodo": 2,
+    "matriculaAtiva": true,
+    "mediaGeral": 7.9,
+    "disciplinasPendentes": ["Desenho Técnico", "História da Arte"]
+  },
+  {
+    "id": 1006,
+    "nome": "Felipe Mendes Rocha",
+    "curso": "Engenharia de Software",
+    "periodo": 5,
+    "matriculaAtiva": true,
+    "mediaGeral": 8.9,
+    "disciplinasPendentes": ["Programação Web", "Inteligência Artificial"]
+  },
+  {
+    "id": 1007,
+    "nome": "Giovanna Alves Brito",
+    "curso": "Direito",
+    "periodo": 1,
+    "matriculaAtiva": true,
+    "mediaGeral": 7.5,
+    "disciplinasPendentes": ["Introdução ao Direito", "Teoria do Estado"]
+  },
+  {
+    "id": 1008,
+    "nome": "Henrique Nunes Dias",
+    "curso": "Medicina",
+    "periodo": 10,
+    "matriculaAtiva": true,
+    "mediaGeral": 9.5,
+    "disciplinasPendentes": ["Estágio Hospitalar"]
+  },
+  {
+    "id": 1009,
+    "nome": "Isabela Gomes Melo",
+    "curso": "Ciências Contábeis",
+    "periodo": 4,
+    "matriculaAtiva": true,
+    "mediaGeral": 6.5,
+    "disciplinasPendentes": ["Matemática Financeira", "Direito Tributário"]
+  },
+  {
+    "id": 1010,
+    "nome": "João Victor Lins",
+    "curso": "Arquitetura e Urbanismo",
+    "periodo": 6,
+    "matriculaAtiva": true,
+    "mediaGeral": 8.1,
+    "disciplinasPendentes": ["Urbanismo III", "Paisagismo"]
+  }
+]
